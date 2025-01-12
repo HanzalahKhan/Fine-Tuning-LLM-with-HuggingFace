@@ -1,0 +1,1 @@
+In this project, I will fine tune a pretrained BERT model for the classification of tweets from twitter. 
